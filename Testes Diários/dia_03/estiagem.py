@@ -12,37 +12,56 @@ Saída
 Para cada entrada, deve-se apresentar a mensagem “Cidade# n:”, onde n é o número da cidade seguindo a sequência (1, 2, 3, ...) e em seguida deve-se listar, por ordem ascendente de consumo, a quantidade de pessoas seguido de um hífen e o consumo destas pessoas, arredondando o valor para baixo. Na terceira linha da saída deve-se mostrar o consumo médio por pessoa da cidade, com 2 casas decimais sem arredondamento, considerando o consumo real total. Imprimir uma linha em branco entre dois casos de teste consecutivos. No fim da saída não deve haver uma linha em branco.
 """
 
-total_habitantes_da_cidade = 0 
-total_consumo_da_cidade = 0
+
 quantidade_de_cidades = 0 
+cidades = []
+numero_cidades = 1
 
 while True:
-    N = int(input("quantas residências: "))
+
+    N = int(input())
 
     if N == 0:
         break
+
+    total_habitantes_da_cidade = 0 
+    total_consumo_da_cidade = 0
+    agrupamento = {}
     
 
     for i in range(N):
 
-        X = int(input("pessoas: "))
-        Y = int(input("consumo: "))  
+        X, Y = map(int, input().split())
+          
 
         consumo_por_residencia = Y // X
         total_habitantes_da_cidade += X 
         total_consumo_da_cidade += Y 
 
-        print(f"{X}-{consumo_por_residencia}")
-
-    consumo_medio_cidade = total_consumo_da_cidade / total_habitantes_da_cidade #sem arrendondar não foi colocado
-
-    # teste de saída
-    print("totais:")
-    print(total_habitantes_da_cidade)
-    print(total_consumo_da_cidade)
-    print(f"agora sim o médio da cidadela kk {consumo_medio_cidade}")
-        
+        if consumo_por_residencia not in agrupamento:
+            agrupamento[consumo_por_residencia] = X
+        else:agrupamento[consumo_por_residencia] += X
 
 
+    consumo_medio_cidade = total_consumo_da_cidade / total_habitantes_da_cidade
+    consumo_medio_cidade = int(consumo_medio_cidade * 100) / 100
 
+    dados_da_cidade = {
+        "numero": numero_cidades,
+        "agrupamento": agrupamento,
+        "media": consumo_medio_cidade
+    }
 
+    cidades.append(dados_da_cidade)
+    numero_cidades += 1
+
+    # saída
+
+for cidade in cidades:
+    print(f"Cidade# {cidade['numero']}:")
+    for consumo in sorted(cidade["agrupamento"]):
+        pessoas = cidade["agrupamento"][consumo]
+        print(f"{pessoas}-{consumo}", end=" ")
+    print()
+    print(f"Consumo medio: {cidade['media']:.2f} m3.")
+    print()
