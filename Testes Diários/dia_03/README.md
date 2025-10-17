@@ -23,8 +23,6 @@
 
 ### Nível: Intermediário
 
-![Print Desafio 2374 - Pneu](prints/desafio2374.png)
-
 ---
 
 ## Aprendizado do dia
