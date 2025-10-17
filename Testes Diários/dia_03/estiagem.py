@@ -12,4 +12,22 @@ Saída
 Para cada entrada, deve-se apresentar a mensagem “Cidade# n:”, onde n é o número da cidade seguindo a sequência (1, 2, 3, ...) e em seguida deve-se listar, por ordem ascendente de consumo, a quantidade de pessoas seguido de um hífen e o consumo destas pessoas, arredondando o valor para baixo. Na terceira linha da saída deve-se mostrar o consumo médio por pessoa da cidade, com 2 casas decimais sem arredondamento, considerando o consumo real total. Imprimir uma linha em branco entre dois casos de teste consecutivos. No fim da saída não deve haver uma linha em branco.
 """
 
-N = int(input())
+while True:
+    N = int(input("quantas residências: "))
+
+    if N == 0:
+        break
+
+    for i in range(N):
+
+        X = int(input("pessoas: "))
+        Y = int(input("consumo: "))  
+
+        consumo_por_residencia = Y // X
+
+        print(f"{X}-{consumo_por_residencia}") 
+        
+
+
+
+
