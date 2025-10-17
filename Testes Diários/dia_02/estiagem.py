@@ -13,7 +13,3 @@ Para cada entrada, deve-se apresentar a mensagem “Cidade# n:”, onde n é o n
 """
 
 N = int(input())
-
-for i in range(0, N):
-    X, Y = map(int, input().split())
-    print(f"esse é o {X} e esse o {Y}")
