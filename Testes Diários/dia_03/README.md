@@ -1,8 +1,8 @@
 # Dia 02 - Treino de Lógica em Python
 
-**Data:** 16/10/2025  
-**Tema do dia:** Lógica em python - desafios simples  
-**Tempo de estudo:** 1h10
+**Data:** 17/10/2025  
+**Tema do dia:** Estruturas e manipulação de dados em python
+**Tempo de estudo:** 2h00
 **Plataforma:** Beecrowd
 
 ---
