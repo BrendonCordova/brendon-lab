@@ -1,8 +1,8 @@
 # Dia 02 - Treino de Lógica em Python
 
 **Data:** 18/10/2025  
-**Tema do dia:** Bibliotecas, Estruturas e Manipulação de Dados em Python
-**Tempo de estudo:** ???
+**Tema do dia:** Bibliotecas, Estruturas e listas em Python
+**Tempo de estudo:** 1h40
 **Plataforma:** Beecrowd
 
 ---
@@ -15,15 +15,23 @@
 
 |
 
+| 3048 | Sequência Secreta | Concluído | Fácil | Pude práticar e experimentar melhor o uso de listas com este desafio, irei pesquisar mais sobre manipulação de listas, dicionários, conjuntos e tuplas.
+
 ---
 
 ## Resultados
 
-### Desafio 1023 – Estiagem - 1023
+### Desafio 1023 – Estiagem
 
 ### Nível: Intermediário
 
 ![Print desafio 1023 - Estiagem](prints/desafio1023.png)
+
+### Desafio 3048 – Sequência Secreta
+
+### Nível: Fácil
+
+![Print desafio 3048 - Sequência Secreta](prints/desafio3048.png)
 
 ---
 
@@ -31,7 +39,7 @@
 
 - Aprendique bibliotecas python auxiliam e muito no desenvolver do código, tornando eles mais rápidos e funcionais.
 - Truncar existe de várias maneiras e formas, até mesmo com strings...
--
+- Pude por em prática a manipulação básica de listas. Com o uso de listas nestes desafios, percebi o quão importante são estes recursos
 
 ## Dificuldades
 
@@ -39,9 +47,12 @@
 
 - Tive dificuldades em encontrar uma função para truncar com duas casas decimais e sem deixar o valor arredondar, a função que encontrei, se parecia mais dificil que a própria execução no código, porém acredito, que em tempo de execução poderia ter sido mais rápido...
 
-- ***
+- Lembrar de algumas sintaxes que fazia tempo que não as usava.
 
 ## Próxima meta
 
-- Pesquisar mais sobre bibliotecas que me ajudem a diminuir o tempo de execução dos desafios. - Concluir o desafio Estiagem, sem cair em Time limit Exceeded. - Aprofundar meus conhecimentos em manipulação de dados usando listas, dicionários, conjuntos e tuplas.
-- Resolver pelo menos 2 desafios de repetição e condição amanhã.
+- Pesquisar mais sobre bibliotecas que me ajudem a diminuir o tempo de execução dos desafios.
+
+- Resolver pelo menos 1 desafio intermediário de listas.
+
+- Resolver pelo menos 2 desafios de listas amanhã.
