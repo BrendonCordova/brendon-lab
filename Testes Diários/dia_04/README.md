@@ -1,21 +1,21 @@
 # Dia 02 - Treino de Lógica em Python
 
-**Data:** 18/10/2025  
+**Data:** 18/10/2025
+
 **Tema do dia:** Bibliotecas, Estruturas e listas em Python
+
 **Tempo de estudo:** 1h40
+
 **Plataforma:** Beecrowd
 
 ---
 
 ## Desafio resolvido
 
-| Desafio | Nome do Desafio | Status    | Nível         | Observações                                                                                                                                                                                                                                                                                                                  |
-| ------- | --------------- | --------- | ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1023    | Estiagem        | Concluído | Intermediário | Ontem identifiquei que pelo tempo de processamento elevado, teria que encontrar bibliotecas python para agilizar o processo, então abri a documentação python e fui atrás e lá estava o sys.stdin.readline(). Procurei a função de truncar, mas há várias formas de truncar e então optei por não tentar usa-la e deu certo! |
-
-|
-
-| 3048 | Sequência Secreta | Concluído | Fácil | Pude práticar e experimentar melhor o uso de listas com este desafio, irei pesquisar mais sobre manipulação de listas, dicionários, conjuntos e tuplas.
+| Desafio | Nome do Desafio   | Status    | Nível         | Observações                                                                                                                                                                                                                                                                                                                  |
+| ------- | ----------------- | --------- | ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1023    | Estiagem          | Concluído | Intermediário | Ontem identifiquei que pelo tempo de processamento elevado, teria que encontrar bibliotecas python para agilizar o processo, então abri a documentação python e fui atrás e lá estava o sys.stdin.readline(). Procurei a função de truncar, mas há várias formas de truncar e então optei por não tentar usa-la e deu certo! |
+| 3048    | Sequência Secreta | Concluído | Fácil         | Pude práticar e experimentar melhor o uso de listas com este desafio, irei pesquisar mais sobre manipulação de listas, dicionários, conjuntos e tuplas.                                                                                                                                                                      |
 
 ---
 
@@ -37,8 +37,10 @@
 
 ## Aprendizado do dia
 
-- Aprendique bibliotecas python auxiliam e muito no desenvolver do código, tornando eles mais rápidos e funcionais.
+- Aprendi que bibliotecas python auxiliam e muito no desenvolver do código, tornando eles mais rápidos e funcionais.
+
 - Truncar existe de várias maneiras e formas, até mesmo com strings...
+
 - Pude por em prática a manipulação básica de listas. Com o uso de listas nestes desafios, percebi o quão importante são estes recursos
 
 ## Dificuldades
@@ -55,4 +57,4 @@
 
 - Resolver pelo menos 1 desafio intermediário de listas.
 
-- Resolver pelo menos 2 desafios de listas amanhã.
+- Resolver pelo menos 2 desafios amanhã.
