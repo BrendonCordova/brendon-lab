@@ -23,9 +23,33 @@ import sys
 N = int(sys.stdin.readline())
 
 for i in range(N):
-    N1, D1, operador, N2,  D2 = map(int, sys.stdin.readline().split()) # estou tentando encontrar a solução ainda.
 
-#continuarrrr!!!!!
+    n1, barra1, d1, operador, n2, barra2,  d2 = sys.stdin.readline().split()
+
+    n1, n2 , d1, d2 = map(int, [n1, n2, d1, d2])
+
+    # print(f"{n1}, {n2} - {operador} - {d1}, {d2}") --> apenas testando
+
+    # validação / conta
+
+    if operador == "+":
+        numerador = (n1 * d2 + n2 * d1)
+        denominador = (d1 * d2)
+        print(f"{numerador}/{denominador} = {int(numerador/2)}/{int(denominador/2)}")
+
+    elif operador == "-":
+        numerador = (n1 * d2 - n2 * d1)
+        denominador = (d1 * d2)
+        print(f"{numerador}/{denominador} = {int(numerador/2)}/{int(denominador/2)}")
+
+
+
+    elif operador == "*":
+        pass
+
+
+    else:
+        pass
 
 # se o valor for:
 
