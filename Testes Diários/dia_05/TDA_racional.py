@@ -19,6 +19,9 @@ A saída consiste em um valor racional, seguido de um sinal de igualdade e outro
 """
 
 import sys
+from fractions import Fraction
+
+# entrada de dados
 
 N = int(sys.stdin.readline())
 
@@ -28,35 +31,33 @@ for i in range(N):
 
     n1, n2 , d1, d2 = map(int, [n1, n2, d1, d2])
 
-    # print(f"{n1}, {n2} - {operador} - {d1}, {d2}") --> apenas testando
-
-    # validação / conta
+    # validação / conta / saída de dados
 
     if operador == "+":
         numerador = (n1 * d2 + n2 * d1)
         denominador = (d1 * d2)
-        print(f"{numerador}/{denominador} = {int(numerador/2)}/{int(denominador/2)}")
+        simplificado = Fraction(numerador, denominador)
+        print(f"{numerador}/{denominador} = {simplificado.numerator}/{simplificado.denominator}")
 
     elif operador == "-":
         numerador = (n1 * d2 - n2 * d1)
         denominador = (d1 * d2)
-        print(f"{numerador}/{denominador} = {int(numerador/2)}/{int(denominador/2)}")
+        simplificado = Fraction(numerador, denominador)
+        print(f"{numerador}/{denominador} = {simplificado.numerator}/{simplificado.denominator}")
 
 
 
     elif operador == "*":
-        pass
+        numerador = n1 * n2
+        denominador = d1 * d2
+        simplificado = Fraction(numerador, denominador)
+        print(f"{numerador}/{denominador} = {simplificado.numerator}/{simplificado.denominator}")
 
 
     else:
-        pass
+        numerador = n1 * d2
+        denominador = n2 * d1
+        simplificado = Fraction(numerador, denominador)
+        print(f"{numerador}/{denominador} = {simplificado.numerator}/{simplificado.denominator}")
 
-# se o valor for:
-
-# +
-"""
-Soma: (N1*D2 + N2*D1) / (D1*D2)
-Subtração: (N1*D2 - N2*D1) / (D1*D2)
-Multiplicação: (N1*N2) / (D1*D2)
-Divisão: (N1/D1) / (N2/D2), ou seja (N1*D2)/(N2*D1)
-"""
+# só tenho a agradecer pela função Fraction, que função incrível!!
