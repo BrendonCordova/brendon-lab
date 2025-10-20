@@ -1,12 +1,12 @@
-# Dia 02 - Treino de Lógica em Python.
+# Dia 06 - Treino de Lógica em Python e desenvolvimento do projeto SeenBook.
 
-**Data:** 19/10/2025
+**Data:** 20/10/2025
 
-**Tema do dia:** Bibliotecas(fractions) e Estruturas em Python
+**Tema do dia:** Bibliotecas(fractions), flask, html e Estruturas em Python
 
-**Tempo de estudo:** 1h30
+**Tempo de estudo:** ?h??
 
-**Plataforma:** Beecrowd e documentação Python
+**Plataforma:** Beecrowd e ????
 
 ---
 
