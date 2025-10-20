@@ -1,4 +1,4 @@
-# Dia 02 - Treino de Lógica em Python
+# Dia 03 - Treino de Lógica em Python
 
 **Data:** 17/10/2025  
 **Tema do dia:** Estruturas e manipulação de dados em python

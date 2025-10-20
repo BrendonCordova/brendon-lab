@@ -1,12 +1,12 @@
-# Dia 02 - Treino de Lógica em Python
+# Dia 04 - Treino de Lógica em Python
 
 **Data:** 18/10/2025
 
 **Tema do dia:** Bibliotecas, Estruturas e listas em Python
 
-**Tempo de estudo:** 1h40
+**Tempo de estudo:** 2h10
 
-**Plataforma:** Beecrowd
+**Plataforma:** Beecrowd e vídeos no Youtube
 
 ---
 
