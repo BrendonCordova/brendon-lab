@@ -1,53 +1,50 @@
-# Dia 06 - Treino de Lógica em Python e desenvolvimento do projeto SeenBook.
+# 🗓️ Dia 06 – Projeto SeenBook e reorganização dos diretórios
 
-**Data:** 20/10/2025
-
-**Tema do dia:** Bibliotecas(fractions), flask, html e Estruturas em Python
-
-**Tempo de estudo:** ?h??
-
-**Plataforma:** Beecrowd e ????
+📅 **Data:** 20/10/2025  
+⏰ **Tempo de estudo:** 2h00  
+💻 **Plataformas/Recursos:** Projeto SeenBook e convenções git/GitHub
 
 ---
 
-## Desafios
+## Tema do dia
 
-| Desafio | Nome do Desafio | Status    | Nível         | Observações                                                                                                                                                                                                              |
-| ------- | --------------- | --------- | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1022    | TDA Racional    | Concluído | intermediário | tive que pesquisar por bibliotecas que me ajudassem a simplificar a fração, pois estava a pensar no tempo limit e ao procurar, logo encontei o Fraction a função da biblioteca fractions que facilita e muito o desafio. |
+Implementação de imagens e generos nos conteúdos do projeto SeenBook e reorganização das pastas. Também foi renomeado o nome do diretório.
 
 ---
 
-## Resultados
+## Desafios / Projetos
 
-### Desafio 1022 – TDA Racional
+| ID  | Nome / Título                               | Status    | Nível | Observações                                                               |
+| --- | ------------------------------------------- | --------- | ----- | ------------------------------------------------------------------------- |
+| —   | Implementar imagens e gêneros nos conteúdos | Concluído | —     | Com a adição vários arquivos tem que ser alterado e talvez até repensando |
 
-### Nível: Intermediário
+**Resultados / Prints**
 
-![Print desafio 1022 - TDA Racional](prints/desafio1022.png)
+> ![Print de uma parte do projeto SeenBook](seenbook_imagens_generos.png)
 
 ---
 
-## Aprendizado do dia
+## Aprendizados do dia
 
-- Aprendi que bibliotecas python auxiliam e muito no desenvolver do código, tornando eles mais rápidos e funcionais - salvadoras kk.
+- Compreendi melhor o funcionamento da função ur_for(...), como puxar imagens de dentro do projeto usando o flask-Jinja2.
+- Organização é um pilar para o desenvolvimento pessoal, com ela você economiza tempo, facilita o aprendizado, ajuda na colaboração, foco e visualização num todo.
 
-- Desafios/testes estão sendo muito importantes para meu desenvolvimento.
-
-- No inicio parece ser impossível, mas ao colocar a mão na massa, tudo se torna mais fácil.
+---
 
 ## Dificuldades
 
-- O desafio no inicio pareceu mais complicado do que realmente foi, tive que ir atrás de uma biblioteca para simplificar a fração, pensei logo em uma biblioteca, pelo tempo limite do desafio que poderia exceder.
+- A implementação das imagens puxando elas pelo url_for(...) me trouxe um pouco de dificuldade, mas com pesquisa pude entender e prosseguir
 
-- A entrada de dados foi um leve problema no inicio, pois não sabia como ignorar as barras, mas sem ignorar a barra que representa a divisão.
+---
 
-## Próxima meta
+## Próximas metas
 
-- Pesquisar mais sobre bibliotecas que me ajudem a diminuir o tempo de execução dos desafios.
+- Resolver 2 desafios amanhã.
+- Realizar minha prova da graduação em ADS
+- Avançar no projeto **SeenBook** (corrigir bugs).
 
-- Pesquisar mais sobre entrada de dados e métodos dos mesmos.
+---
 
-- Resolver pelo menos 1 desafios amanhã.
+## Reflexão pessoal
 
-- Desenvolver meu projeto SeenBook amanhã.
+> No início tudo parece dificil e te faz pensar em desistir, mas com um pouco de esforço e vontade, tudo se mostra mais fácil. De passo em passo, vou longe!
