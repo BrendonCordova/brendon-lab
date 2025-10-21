@@ -12,9 +12,9 @@
 
 ## Desafios
 
-| Desafio | Nome do Desafio | Status   | Nível | Observações |
-| ------- | --------------- | -------- | ----- | ----------- |
-| 1168    | LED             | Iniciado | Fácil | ????        |
+| Desafio | Nome do Desafio | Status    | Nível | Observações                                                                             |
+| ------- | --------------- | --------- | ----- | --------------------------------------------------------------------------------------- |
+| 1168    | LED             | Concluído | Fácil | Não tinha entendido o que o desafio pedia, mas após entender o desafio em si, foi fácil |
 
 ---
 
