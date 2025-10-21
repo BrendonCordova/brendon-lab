@@ -16,6 +16,50 @@ Saída
 Para cada caso de teste, imprima uma linha contendo o número de leds que João precisa para montar o valor desejado, seguido da palavra "leds".
 """
 
+import sys
+
+N = int(sys.stdin.readline())
+
+for i in range(N):
+
+    numeros = 0
+    quantidade_led = 0
+
+    numeros = sys.stdin.readline().strip()
+
+    for numero in numeros:
+
+        if numero == "1":
+            quantidade_led += 2
+
+        elif numero == "2":
+            quantidade_led += 5
+
+        elif numero == "3":
+            quantidade_led += 5
+
+        elif numero == "4":
+            quantidade_led += 4
+
+        elif numero == "5":
+            quantidade_led += 5
+
+        elif numero == "6":
+            quantidade_led += 6
+
+        elif numero == "7":
+            quantidade_led += 3
+
+        elif numero == "8":
+            quantidade_led += 7
+
+        elif numero == "9":
+            quantidade_led += 6
+
+        else:
+            quantidade_led += 6
+
+    print(f"{quantidade_led} leds")
 
 """
 LEDS tem a composição:
