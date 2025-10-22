@@ -1,50 +1,47 @@
-# 🗓️ Dia 06 – Projeto SeenBook e reorganização dos diretórios
+# Dia 06 - Desenvolvimento do projeto SeenBook.
 
-📅 **Data:** 20/10/2025  
-⏰ **Tempo de estudo:** 2h00  
-💻 **Plataformas/Recursos:** Projeto SeenBook e convenções git/GitHub
+**Data:** 20/10/2025
+
+**Tema do dia:** Bibliotecas(fractions), flask, html e Estruturas em Python
+
+**Tempo de estudo:** 1h20
+
+**Plataforma:** VSCode e web
 
 ---
 
-## Tema do dia
+## Projetos
 
-Implementação de imagens e generos nos conteúdos do projeto SeenBook e reorganização das pastas. Também foi renomeado o nome do diretório.
+| Desafio | Nome do Desafio  | Status    | Nível         | Observações                                                                                                                                                             |
+| ------- | ---------------- | --------- | ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| -       | Projeto SeenBook | Andamento | intermediário | hoje atualizei as capas dos conteúdos, troquei de url da web que podem quebrar, para as imagens dentro do static. Também implementei gêneros na exibição dos conteúdos. |
 
 ---
 
 ## Desafios / Projetos
 
-| ID  | Nome / Título                               | Status    | Nível | Observações                                                               |
-| --- | ------------------------------------------- | --------- | ----- | ------------------------------------------------------------------------- |
-| —   | Implementar imagens e gêneros nos conteúdos | Concluído | —     | Com a adição vários arquivos tem que ser alterado e talvez até repensando |
+### Projeto – SeenBook
 
 **Resultados / Prints**
 
-> ![Print de uma parte do projeto SeenBook](seenbook_imagens_generos.png)
+![Print Projeto SeenBook - homepage.html](prints/seenbook_imagens_generos.png)
 
 ---
 
-## Aprendizados do dia
+## Aprendizado do dia
 
-- Compreendi melhor o funcionamento da função ur_for(...), como puxar imagens de dentro do projeto usando o flask-Jinja2.
-- Organização é um pilar para o desenvolvimento pessoal, com ela você economiza tempo, facilita o aprendizado, ajuda na colaboração, foco e visualização num todo.
+- Aprendi a usar melhor o url_for().
 
----
+- Aprendi mais sobre o funcionamento do Flask/Jinja2.
+
+- Pude compreender e práticas a manipulação de dados entre html e python.
 
 ## Dificuldades
 
-- A implementação das imagens puxando elas pelo url_for(...) me trouxe um pouco de dificuldade, mas com pesquisa pude entender e prosseguir
-
----
+- conectar a URL_FOR() na pasta static/capas e pegar as imagens relacionadas ao conteúdo dela.
 
 ## Próximas metas
 
-- Resolver 2 desafios amanhã.
-- Realizar minha prova da graduação em ADS
-- Avançar no projeto **SeenBook** (corrigir bugs).
+- Resolver pelo menos 1 desafios amanhã.
 
----
-
-## Reflexão pessoal
-
-> No início tudo parece dificil e te faz pensar em desistir, mas com um pouco de esforço e vontade, tudo se mostra mais fácil. De passo em passo, vou longe!
+- Desenvolver meu projeto SeenBook e corrigir bugs.
