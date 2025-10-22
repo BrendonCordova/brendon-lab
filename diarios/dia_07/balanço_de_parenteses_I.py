@@ -25,11 +25,14 @@ O arquivo de saída deverá ter a quantidade de linhas correspondente ao arquivo
 
 import sys
 
-N = int(sys.stdin.readline())
-
-for i in range(N):
+while True:
 
     expressoes = sys.stdin.readline().strip()
+
+    if expressoes == "":
+        break
+    
+    flag = True
     parenteses = 0
 
     for expressao in expressoes:
@@ -37,16 +40,16 @@ for i in range(N):
         if expressao == ")":
             parenteses -= 1
             if parenteses < 0:
+                flag = False
                 break
 
         elif expressao == "(":
             parenteses += 1
     
-    if parenteses == 0:
+    if flag:
         print("correct")
 
     else:
         print("incorrect")
 
-# se for == 0, então está equilibrado, porém se antes ele ficar negativo já quebra, porém com o break
-# ali, ele simplesmente quebra e joga para onde irá verificar novamente, por isso rever... agora vou pra aula!!
+# dando enter sem nada ele completa com correct, provavelmenta algum tab ou coisa assim... Corrigir
