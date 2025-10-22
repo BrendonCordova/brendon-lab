@@ -18,11 +18,11 @@
 
 ---
 
-## Resultados
+## Desafios / Projetos
 
 ### Projeto – SeenBook
 
-### Nível: Intermediário
+**Resultados / Prints**
 
 ![Print Projeto SeenBook - homepage.html](prints/seenbook_imagens_generos.png)
 
@@ -40,7 +40,7 @@
 
 - conectar a URL_FOR() na pasta static/capas e pegar as imagens relacionadas ao conteúdo dela.
 
-## Próxima meta
+## Próximas metas
 
 - Resolver pelo menos 1 desafios amanhã.
 
