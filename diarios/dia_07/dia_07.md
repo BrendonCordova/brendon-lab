@@ -1,4 +1,4 @@
-# Dia 06 - Treino de Lógica em Python e Aula de IHC.
+# Dia 07 - Treino de Lógica em Python e Aula de IHC.
 
 **Data:** 21/10/2025
 
