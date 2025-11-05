@@ -1,6 +1,6 @@
 # Dia 09 - Retorno, Pesquisa, conclusão de Provas da Graduação Interação Humano-Computador e o Desenvolvimento do Projeto SeenBook.
 
-**Data:** 23/10/2025 até o 31/10/2025
+**Data:** 23/10/2025 até o 03/11/2025
 
 **Tema do dia:** Retorno, Matéria Interação Humano-Computador e Projeto SeenBook.
 
