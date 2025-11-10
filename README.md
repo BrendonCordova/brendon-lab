@@ -36,13 +36,23 @@ brendon-lab/
   - A semântica é extremamente importante no desenvolvimento do projeto.
   - Mesmo com dificuldades o importante é sempre persistir e nunca desistir.
 
+### Semana 02 (04/11 – 09/11)
+
+- **Simulados resolvidos:** 3 (Descomplica, Enem)
+- **Leituras:** Live do Descomplica, plataforma Descomplica e vídeos dos youtubers: Débora Aladim, Professor Noslen, Jubilut, Marcos Vasconcelhos, Professor Ferretto, Profinho, Felipe Araujo, Método Questiona e Curso Enem Gratuito.
+- **Aprendizados:**
+  - interpretação diante as questões, interpretar o contexto de dois textos e corelaciona-los, prestar atenção nos pronomes nominais, entre outros.
+  - Aprendemos (em colaboração com minha esposa) a desenvolver a ideia e desenvolvimento do tema por meio de tópicos que lhe remetem ao tema e diante dele, organizar as ideias, elaborar o desenvolvimento e resumi-lo(introdução) e ai sim concluir como solucionar. Após tudo isso, arrumar a gramática e palavras chave.
+  - interpretar melhor os textos, sobre geografia, historia e filosofia.
+  - termos e temas referente à Português, Geografia, História, Filosófia e Sociologia que mais caem no ENEM.
+  - Manter a calma e fazer a prova com foco, normalmente seu maior desafio é sua cabeça.
+
 ---
 
 ## 🚀 Próximos passos
 
-- Continuar aprendendo diariamente.
+- Treinar temas para a segunda etapa do ENEM.
 - Finalizar o Projeto SeenBook e, iniciar o Paper e Socialização dele.
-- Desenvolver minha gramática e escrita para o Redação do ENEM.
 - Foco nos conteúdos de conclusão da Graduação.
 - Estudar bibliotecas e métodos para otimizar execução de código.
 
