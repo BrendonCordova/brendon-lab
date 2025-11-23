@@ -4,7 +4,7 @@
 
 **Tema do dia:** Retorno, Matéria Interação Humano-Computador e Projeto SeenBook.
 
-**Tempo de estudo:** 2h30
+**Tempo de estudo:** 3h50
 
 **Plataforma:** AVA Uniasselvi, Google e SeenBook.
 
