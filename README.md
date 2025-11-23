@@ -50,7 +50,6 @@ brendon-lab/
 ### Semana 03 (10/11 – 16/11)
 
 - **Atividades realizadas:**
-
   - Avanço no desenvolvimento do projeto SeenBook (front-end e back-end).
   - Correção de bugs relacionados às flash messages que não eram exibidas corretamente após redirecionamentos.
   - Retomada da criação do escopo visual no Figma, incluindo principais páginas, interações e fluxo da plataforma.
