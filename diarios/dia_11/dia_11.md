@@ -1,55 +1,53 @@
-# Dia 09 - ENEM.
+# Dia 11 - Desenvolvimento SeenBook.
 
-**Data:** 04/11/2025 até o 09/11/2025
+**Data:** 11/11/2025 até o 16/11/2025
 
-**Tema do dia:** Matérias e simulados do Enem
+**Tema do dia:** Desenvolvimento Front-end e Back-end do SeenBook
 
-**Tempo de estudo:** 13h34
+**Tempo de estudo:** 15h12
 
-**Plataforma:** Descomplica e Youtube.
+**Plataforma:** Python, HTML, CSS, Jinja, Flask, Figma e Trello.
 
 ---
 
-## Simulados
+## Projeto
 
-## Foram 3 simulados realizados na plataforma Descomplica, além da proposta de Redação recebida e realizada.
+### Projeto SeenBook
 
-### Conteúdos do ENEM
+Nesta semana avancei significativamente no desenvolvimento do projeto SeenBook, trabalhando tanto no front-end quanto no back-end. Corrigi bugs relacionados às flash messages, que não estavam sendo exibidas corretamente após redirecionamentos, e retomei o escopo visual do projeto no Figma, estruturando páginas, interações e fluxo da plataforma.
 
-Essa semana dei uma boa revisada nos conteúdos do ENEM, usando a Live do Descomplica, plataforma Descomplica e vídeos dos youtubers: Débora Aladim, Professor Noslen, Paulo Jubilut, Marcos Vasconcelhos, Professor Ferretto, Profinho, Felipe Araujo, Método Questiona e Curso Enem Gratuito.
+Também implementei funcionalidades ligadas à navegação, revisitando conceitos como Scrolling Vertical e Scrolling Horizontal, o que contribuiu para definir melhor a experiência final do usuário.
 
 ---
 
 ## Aprendizado dos dias
 
-- Melhorei minha interpretação diante as questões, interpretar o contexto de dois textos e corelaciona-los, prestar atenção nos pronomes nominais, entre outros.
+- Aprendi que tags Jinja {{ }} comentadas ainda são interpretadas e podem gerar erros no HTML.
 
-- Aprendemos (em colaboração com minha esposa) a desenvolver a ideia e desenvolvimento do tema por meio de tópicos que lhe remetem ao tema e diante dele, organizar as ideias, elaborar o desenvolvimento e resumi-lo(introdução) e ai concluir como solucionar. Após tudo isso, arrumar a gramática e palavras chave.
+- Implementei o cálculo da média de feedbacks utilizando func.avg e exibi corretamente na interface.
 
-- Aprendi sobre interpretar melhor os textos, sobre geografia, historia e filosofia.
+- Desenvolvi e conectei o decorador admin_require aos IDs de administradores, garantindo controle de acesso às rotas de adição, alteração e exclusão de conteúdos.
 
-- Aprendi termos e temas referente à Português, Geografia, História, Filosófia e Sociologia que mais caem no ENEM.
+- Aprofundei o uso de herança de templates com base.html, extends e block content, padronizando o layout.
 
-- Manter a calma e fazer a prova com foco, se trata mais de uma prova de resistência.
+- Estruturei a listagem de conteúdos com cinco flashcards por linha, exibindo informações adicionais via hover (ano, tipo e gênero).
+
+- Reforcei conhecimentos de CSS, incluindo o uso de box-shadow e organização visual.
 
 ## Dificuldades
 
-- O simulado estava com algumas questões bem dificeís e outras mais tranquilas, o que problematizou, foi o fato de estar um tempo sem treinar a língua portuguesa em si.
+- Levei tempo para identificar erros específicos que quebravam o código.
 
-- Tivemos dificuldades(colaboração com minha esposa) de implementar dados na redação, mas saímos bem no desenvolver de ideais e elabora-las.
+- Tive dificuldade inicial ao voltar a usar o Figma, precisando relembrar o fluxo de criação visual.
 
-- Tive dificuldade de lembrar de alguns temas sobre Português e Geografia que já estudei no ensino médio.
+- A implementação do admin_require e da listagem de conteúdos exigiu pesquisa, testes e paciência até funcionar corretamente.
 
-- Revisei e vi lives mais compridas, o que acabou alguns conteúdos não serem tão lembrados quanto outros, porém os principais eu dei um foco maior.
+## Reflexão
 
-- (Na Prova): na parte final, após a redação, acaba sendo muito massante pelo tempo passado ali sem poder se alongar nem nada, mas só questão de descostume.
+Essa semana reforçou a importância de constância, equilíbrio e tempo no aprendizado. Após o ENEM, fiz um passeio com minha esposa no Parque Diamante, o que me lembrou do valor dos momentos leves, mesmo em meio a estudos e responsabilidades, recarregando as energias.
 
 ## Próxima meta
 
-- Estudar para o segundo dia do ENEM.
+- Continuar o desenvolvimento completo do front-end do SeenBook.
 
-- Desenvolver meu projeto SeenBook(SB).
-
-## Observação
-
-Esqueci de tirar print dos simulados e estudos realizados na semana 😅
+- Iniciar o desenvolvimento do paper do projeto.
