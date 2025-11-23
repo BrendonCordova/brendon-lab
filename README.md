@@ -71,12 +71,42 @@ brendon-lab/
   - A importância da constância, equilíbrio e paciência no processo de aprendizado.
   - Momentos leves, como um passeio com minha esposa, ajudam a manter o foco e a motivação após períodos intensos.
 
+### Semana 04 (17/11 – 23/11)
+
+- **Atividades realizadas:**
+  - Aprimoramento da estilização do projeto SeenBook com CSS (centralização, alinhamento em colunas/linhas, sombras e ajustes visuais).
+  - Implementação do carrossel, utilizando a estrutura Sticky Footer para manter o layout estável.
+  - Adaptação e padronização de estilos em outras páginas do projeto, incluindo organização por containers.
+  - Revisão da estrutura do código para compreensão geral do projeto.
+  - Início do desenvolvimento do paper de conclusão, com inserção de prints e explicações técnicas.
+  - Organização de rotinas e planejamento pessoal para continuidade dos estudos e do projeto.
+  - Tecnologias utilizadas: Python, Flask, HTML, CSS, SQLAlchemy, SQLite, Jinja2.
+- **Aprendizados:**
+  - Melhor entendimento de estilização com CSS e uso de containers.
+  - Importância da estrutura Sticky Footer para evitar quebra de layout.
+  - Reforço da compreensão da arquitetura do próprio código após revisões.
+  - Orientações do professor Márcio Poffo sobre desenvolvimento e estruturação do paper.
+  - Escrita técnica mais clara e coesa ao descrever funcionalidades e trechos de código.
+  - Domínio maior dos pilares do projeto: Python, Flask, HTML, CSS, SQLAlchemy, SQLite e Jinja2.
+- **Dificuldades enfrentadas:**
+  - Lembrar e implementar algumas sintaxes novas durante o desenvolvimento.
+  - O carrossel quebrava o layout até os ajustes finais.
+  - Adaptação de estilizações por container em outras páginas.
+  - Erro no filtro causado por aria-label com inicial maiúscula.
+  - Dificuldade inicial em definir quais tecnologias destacar e como descrevê-las formalmente.
+- **Reflexões pessoais:**
+  - Revisitar o código após um tempo mostrou a importância de revisar e entender o que já foi construído.
+  - Organização da rotina e pequenas pausas são essenciais para manter equilíbrio.
+
+O final de semana foi impactado por uma forte dor estomacal, exigindo descanso e diminuindo o ritmo, mas o aprendizado continua — respeitar o corpo também faz parte do processo.
+
 ---
 
 ## 🚀 Próximos passos
 
-  - Continuar o desenvolvimento completo do front-end do SeenBook.
-  - Iniciar a escrita do paper do projeto.
+- Iniciar o desenvolvimento da apresentação do projeto.
+- Finalizar as últimas implementações e correções do código.
+- Publicar os certificados do Santander Bootcamp 2025.
 
 ---
 
