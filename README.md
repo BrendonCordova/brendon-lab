@@ -47,14 +47,37 @@ brendon-lab/
   - termos e temas referente à Português, Geografia, História, Filosófia e Sociologia que mais caem no ENEM.
   - Manter a calma e fazer a prova com foco, normalmente seu maior desafio é sua cabeça.
 
+### Semana 03 (10/11 – 16/11)
+
+- **Atividades realizadas:**
+
+  - Avanço no desenvolvimento do projeto SeenBook (front-end e back-end).
+  - Correção de bugs relacionados às flash messages que não eram exibidas corretamente após redirecionamentos.
+  - Retomada da criação do escopo visual no Figma, incluindo principais páginas, interações e fluxo da plataforma.
+  - Implementação da listagem de conteúdos com cinco flashcards por linha e informações extras via hover (ano, tipo e gênero).
+  - Ajustes de rotas e templates para controle de acesso admin.
+  - Revisão de conceitos de CSS (ex.: box-shadow).
+- **Tecnologias utilizadas:** Python, HTML, CSS, Jinja, Figma, Trello.
+- **Aprendizados:**
+  - Tags Jinja {{ }} comentadas ainda podem ser interpretadas e gerar erros.
+  - Implementação do cálculo de média com func.avg e exibição no front-end.
+  - Uso do decorador admin_require vinculado a IDs de usuários administradores.
+  - Herança de templates com base.html, utilizando extends e block content para padronizar layouts.
+  - Estruturação visual utilizando técnicas de navegação (scroll vertical e horizontal).
+- **Desafios enfrentados:**
+  - Identificação de erros que quebravam o código, exigindo investigação e apoio de IAs.
+  - Reaprendizado e adaptação ao Figma após um tempo sem utilizar a ferramenta.
+  - Pesquisa e experimentação para implementar corretamente o controle admin e a listagem de conteúdos.
+- **Reflexões pessoais:**
+  - A importância da constância, equilíbrio e paciência no processo de aprendizado.
+  - Momentos leves, como um passeio com minha esposa, ajudam a manter o foco e a motivação após períodos intensos.
+
 ---
 
 ## 🚀 Próximos passos
 
-- Treinar temas para a segunda etapa do ENEM.
-- Finalizar o Projeto SeenBook e, iniciar o Paper e Socialização dele.
-- Foco nos conteúdos de conclusão da Graduação.
-- Estudar bibliotecas e métodos para otimizar execução de código.
+  - Continuar o desenvolvimento completo do front-end do SeenBook.
+  - Iniciar a escrita do paper do projeto.
 
 ---
 
