@@ -1,8 +1,8 @@
 # 🧠 Brendon-Lab
 
 📆 **Início:** Outubro/2025  
-🎯 **Objetivo:** Documentar meu crescimento diário, resolução de desafios, desenvolvimento de projetos e estudos teóricos/práticos.  
-💡 **Estratégia:** Cada dia é registrado individualmente em pastas dentro de `/diarios/`.  
+🎯 **Objetivo:** Documentar meu crescimento semanal, resolução de desafios, desenvolvimento de projetos e estudos teóricos/práticos.  
+💡 **Estratégia:** Desafios realizados são feitos individualmente em pastas dentro de `/diarios/`.  (irei alterar)
 📌 **Resumo semanal:** Consolidado no final da semana neste README.
 
 ---
@@ -100,13 +100,59 @@ brendon-lab/
 
 O final de semana foi impactado por uma forte dor estomacal, exigindo descanso e diminuindo o ritmo, mas o aprendizado continua — respeitar o corpo também faz parte do processo.
 
+### Semana 05 (24/11 – 30/11)
+
+**Atividades realizadas:**
+
+- Aprendizado prático de deploy no PythonAnywhere, incluindo envio de arquivos, ajustes em WSGI, configurações de files e web.
+
+- Configuração inicial de ambiente com .env e compreensão das diferenças entre execução do código no repositório local e deploy.
+
+- Transição do envio de e-mails de SendGrid para Gmail, incluindo configuração de senhas de app e variavéis de ambiente.
+
+- Ajustes no projeto SeenBook relacionados ao processo de deploy.
+
+- Organização da rotina de estudos e ambientação nas plataformas Alura e Alura Línguas.
+
+**Aprendizados da semana:**
+
+- Diferenças entre ambiente local e produção, principalmente em relação ao comportamento do .env.
+
+- No deploy, mensagens e erros podem não aparecer na interface, exigindo análises de logs.
+
+**Dificuldades enfrentadas:**
+
+- Processo complexo para migrar o envio de e-mails do SendGrid para Gmail.
+
+- Erros constantes no PythonAnywhere ao configurar o envio via Gmail, exigindo diversas reconfigurações.
+
+- Interferência das dores estomacais no ritmo de estudo.
+
+- Necessidade de revisar todo o fluxo de envio de e-mails após falhas que afetaram até o ambiente local.
+
+- Interferência das dores estomacais no ritmo de estudo.
+
+**Foco de estudo da semana:**
+
+- Deploy no PythonAnywhere.
+
+- Ajustes de envio de e-mails com Gmail.
+
+- Organização dos estudos.
+
+- Continuidade no projeto SeenBook.
+
+- Conteúdos da Alura e Alura Línguas.
+
+***Horas estudadas: 04h35***
+
 ---
 
 ## 🚀 Próximos passos
 
-- Iniciar o desenvolvimento da apresentação do projeto.
-- Finalizar as últimas implementações e correções do código.
-- Publicar os certificados do Santander Bootcamp 2025.
+- Concluir o desenvolvimento da apresentação do projeto.
+- Reestruturar este repositório para melhor compreensão do seu propósito.
+- Criar Readme para o perfil.
 
 ---
 
