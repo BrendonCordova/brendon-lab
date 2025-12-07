@@ -146,13 +146,66 @@ O final de semana foi impactado por uma forte dor estomacal, exigindo descanso e
 
 ***Horas estudadas: 04h35***
 
+### Semana 06 (01/12 – 07/12)
+
+**Atividades realizadas:**
+
+- Desenvolvimento e finalização de diversos trabalhos acadêmicos (Química Geral, Química Industrial, 5S e Projeto e Desenvolvimento de Projeto), aplicando pesquisa, escrita técnica e produção de materiais em Word e vídeo.
+
+- Estudo e entendimento de temas como:
+
+  - 5S
+  - Condutividade elétrica
+  - Elaboração de experimentos químicos
+  - Balanço de massa e energia
+  - Capacidade de geração de energia via vapor
+
+- Entrega de trabalho de Química Industrial, com nota final de 90, entrega de trabalho de 5S, com nota final de 100, além de outros 2 trabalhos que aguardam avaliação.
+
+- Criação e edição de vídeo acadêmico via CapCut, apresentando melhorias aplicadas a um dispositivo cotidiano (controle remoto TCL).
+
+- Organização total do quarto e reestruturação do ambiente de estudo.
+
+**Aprendizados da semana:**
+
+- Capacidade de aprender rapidamente novos temas técnicos fora da minha área principal.
+
+- Estruturação de trabalhos extensos com clareza e velocidade.
+
+- Prática de gravação, criação e edição de vídeo para fins acadêmicos.
+
+- A importância da ambientalização e organização física para manter consistência nos estudos.
+
+**Dificuldades enfrentadas:**
+
+- Desafio inicial para compreender temas de Química Industrial, principalmente balanço de massa e energia.
+
+- Adaptação à criação e edição de vídeo, algo inicialmente fora da rotina e que demandou teste, prática e repetição.
+
+- Alta carga de trabalho durante a semana, exigindo conciliação com estudos e projetos paralelos.
+
+**Foco de estudo da semana:**
+
+- Foco no trabalho para lançar todas as notas fiscais paradas pelo processo de transição de matriz
+
+- Entender e emitir Ordens de serviço e notas fiscais no sistema Questor Empresarial, compreendendo o sistema.
+
+- Entrega dos trabalhos.
+
+- Reestruturação do ambiente de estudo para trazer mais foco e organização
+
+- Organização de metas e objetivos das próximas semanas. 
+
+***Horas estudadas: 13h00***
+
 ---
 
 ## 🚀 Próximos passos
 
-- Concluir o desenvolvimento da apresentação do projeto.
-- Reestruturar este repositório para melhor compreensão do seu propósito.
-- Criar Readme para o perfil.
+- Início das próximas disciplinas da Alura.
+- Continuidade do estudo diário de Python e Inglês.
+- Finalizar fotos e ajustes do trabalho de projeto de Desenvolvimento de Projeto.
+- Manter rotina estruturada e ambiente organizado para melhorar foco e produtividade.
 
 ---
 
