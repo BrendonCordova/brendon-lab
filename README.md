@@ -23,6 +23,7 @@ brendon-lab/
 
 ## 📅 Resumos semanais
 
+
 ### Semana 01 (15/10 – 03/11)
 
 - **Desafios resolvidos:** 8 (Beecrowd, Python)
@@ -36,6 +37,8 @@ brendon-lab/
   - A semântica é extremamente importante no desenvolvimento do projeto.
   - Mesmo com dificuldades o importante é sempre persistir e nunca desistir.
 
+
+
 ### Semana 02 (04/11 – 09/11)
 
 - **Simulados resolvidos:** 3 (Descomplica, Enem)
@@ -46,6 +49,8 @@ brendon-lab/
   - interpretar melhor os textos, sobre geografia, historia e filosofia.
   - termos e temas referente à Português, Geografia, História, Filosófia e Sociologia que mais caem no ENEM.
   - Manter a calma e fazer a prova com foco, normalmente seu maior desafio é sua cabeça.
+
+
 
 ### Semana 03 (10/11 – 16/11)
 
@@ -70,6 +75,8 @@ brendon-lab/
 - **Reflexões pessoais:**
   - A importância da constância, equilíbrio e paciência no processo de aprendizado.
   - Momentos leves, como um passeio com minha esposa, ajudam a manter o foco e a motivação após períodos intensos.
+
+
 
 ### Semana 04 (17/11 – 23/11)
 
@@ -99,6 +106,8 @@ brendon-lab/
   - Organização da rotina e pequenas pausas são essenciais para manter equilíbrio.
 
 O final de semana foi impactado por uma forte dor estomacal, exigindo descanso e diminuindo o ritmo, mas o aprendizado continua — respeitar o corpo também faz parte do processo.
+
+
 
 ### Semana 05 (24/11 – 30/11)
 
@@ -145,6 +154,8 @@ O final de semana foi impactado por uma forte dor estomacal, exigindo descanso e
 - Conteúdos da Alura e Alura Línguas.
 
 ***Horas estudadas: 04h35***
+
+
 
 ### Semana 06 (01/12 – 07/12)
 
@@ -198,14 +209,66 @@ O final de semana foi impactado por uma forte dor estomacal, exigindo descanso e
 
 ***Horas estudadas: 13h00***
 
+
+
+### Semana 07 (08/12 – 14/12)
+
+**Atividades realizadas:**
+
+- Estudo contínuo de Pensamento Computacional, com foco em decomposição de problemas, reconhecimento de padrões, abstração e algoritmos.
+
+- Avanço na leitura do livro Entendendo Algoritmos, reforçando conceitos de lógica e resolução de problemas.
+
+- Estudos de Inglês, com foco em módulo inicial e leitura.
+
+- Introdução e continuidade em Python, com ênfase em:
+  - Strings (casting, interpolação, manipulação)
+  - Estruturas condicionais
+
+- Desenvolvimento de um mini sistema em Python, permitindo testar soluções próprias e explorar novas estruturas da linguagem.
+
+- Contato prático com a técnica Dividir para Conquistar, aplicada em exercícios e atividades.
+
+**Aprendizados da semana:**
+
+- Compreensão mais clara sobre o ecossistema da computação: software, hardware, mercado e trabalho em equipe.
+
+- Entendimento de que software é composto por backend, frontend e banco de dados, e nasce a partir de demandas reais.
+
+- Consolidação dos pilares do Pensamento Computacional e sua aplicação prática.
+
+- Reforço nos fundamentos de lógica de programação e resolução estruturada de problemas.
+
+- Aprendizado prático da estrutura match/case em Python.
+
+- Importância de entender a estrutura do hardware para tomar decisões mais eficientes sobre dados e soluções.
+
+**Dificuldades enfrentadas:**
+
+- Aplicação prática do conceito de Dividir para Conquistar, superada com esforço, prática e repetição.
+
+**Foco de estudo da semana:**
+
+- Finalização de trabalhos acadêmicos.
+
+- Consolidação dos fundamentos de Pensamento Computacional.
+
+- Leitura do livro Entendendo Algoritmos.
+
+- Introdução e avanço em Python.
+
+- Continuidade nos estudos de Inglês.
+
+***Horas estudadas: 11h05***
+
 ---
 
 ## 🚀 Próximos passos
 
-- Início das próximas disciplinas da Alura.
-- Continuidade do estudo diário de Python e Inglês.
-- Finalizar fotos e ajustes do trabalho de projeto de Desenvolvimento de Projeto.
-- Manter rotina estruturada e ambiente organizado para melhorar foco e produtividade.
+- Dar continuidade à leitura do livro Entendendo Algoritmos.
+- Avançar nos módulos de Python (módulo 3 >).
+- Concluir o primeiro módulo de Inglês.
+- Reforçar os aprendizados com testes e projetos práticos.
 
 ---
 
