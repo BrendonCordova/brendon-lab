@@ -1,5 +1,8 @@
 # 🧠 Brendon-Lab
 
+
+## Irá passar por reformulação/Manutenção....
+
 📆 **Início:** Outubro/2025  
 🎯 **Objetivo:** Documentar meu crescimento semanal, resolução de desafios, desenvolvimento de projetos e estudos teóricos/práticos.  
 💡 **Estratégia:** Desafios realizados são feitos individualmente em pastas dentro de `/diarios/`.  (irei alterar)
