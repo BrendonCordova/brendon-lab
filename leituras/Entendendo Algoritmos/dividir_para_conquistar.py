@@ -56,3 +56,5 @@ print(result)
 
 print("\n4.4 Você se lembra da pesquisa binária do Capítulo 1? Ela também é um algoritmo do tipo dividir para conquistar." 
       " Você Consegue determinar o caso-base e o caso recursivo para a pesquisa binária?")
+
+print("Na pesquisa binária o caso-base seria o último elemento e o caso recursivo seria o último_elemento if ultimo_elemento == valor_desejado else valor_resto.   valor_resto = funcao(resto)")

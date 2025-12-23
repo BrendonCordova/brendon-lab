@@ -11,5 +11,5 @@ def quicksort(array):
         return quicksort(menores) + [pivo] + quicksort(maiores)
     # errei na colocação do pivo no return, pois esqueci que o pivo é um array, por isso, há necessidade de por []
 
-resultado = quicksort([10, 5, 2, 3])
+resultado = quicksort([10, 8])
 print(resultado)
