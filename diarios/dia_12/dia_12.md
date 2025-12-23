@@ -10,7 +10,7 @@
 
 ---
 
-## Projeto
+## Projetos
 
 ### Projeto SeenBook
 
@@ -38,18 +38,26 @@ Outro marco importante foi o início do desenvolvimento prático do paper, estru
 
 ## Dificuldades
 
-- Levei tempo para identificar erros específicos que quebravam o código.
+- Tive dificuldade em lembrar algumas sintaxes e implementar funções novas.
 
-- Tive dificuldade inicial ao voltar a usar o Figma, precisando relembrar o fluxo de criação visual.
+- O carrossel inicialmente quebrava o layout, exigindo várias tentativas e pesquisas.
 
-- A implementação do admin_require e da listagem de conteúdos exigiu pesquisa, testes e paciência até funcionar corretamente.
+- Adaptações por container em outras páginas exigiram calma e ajustes finos.
+
+- O filtro apresentou erro devido ao aria-label com inicial maiúscula.
+
+- Foi desafiador escolher quais tecnologias destacar e descrevê-las de forma formal.
+
+- Tive dificuldade em explicar estruturas antigas do código com clareza no paper.
 
 ## Reflexão
 
-Essa semana reforçou a importância de constância, equilíbrio e tempo no aprendizado. Após o ENEM, fiz um passeio com minha esposa no Parque Diamante, o que me lembrou do valor dos momentos leves, mesmo em meio a estudos e responsabilidades, recarregando as energias.
+Organizar a rotina e revisar o código mostrou o quanto pequenas pausas podem ajudar no entendimento e na produtividade. No sábado, precisei desacelerar devido a uma forte dor estomacal, ficando em descanso e reduzindo o ritmo. Isso reforçou a importância de respeitar os limites do corpo: desenvolvimento também exige equilíbrio e adaptação, mesmo que as vezes indesejadas.
 
 ## Próxima meta
 
-- Continuar o desenvolvimento completo do front-end do SeenBook.
+- Iniciar o desenvolvimento da apresentação do projeto SeenBook.
 
-- Iniciar o desenvolvimento do paper do projeto.
+- Finalizar as últimas implementações e correções do código.
+
+- Publicar os certificados do Santander Bootcamp 2025.
