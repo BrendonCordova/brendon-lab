@@ -7,7 +7,29 @@ O foco é registrar **evolução, aprendizados e marcos importantes**.
 
 ---
 
-## [2025-12] — Consolidação de estudos e Reestruturação do repositório
+## [2026-01] — Desenvolvimento e reestruturação do miniprojeto Controle de Tarefas
+
+### Changed
+
+- **[Mini-projeto: Controle de Tarefas](https://github.com/BrendonCordova/brendon-lab/tree/main/mini-projetos/controle_de_tarefas.md): Inserção do controle_de_tarefas.md com breve descrição do projeto e link, removendo a pasta que representava o projeto.**
+- **[Atividade prática de git/github](https://github.com/BrendonCordova/brendon-lab/tree/main/desafios-e-treinos/alura/atividades-git-github): Desenvolver os conhecimentos e testes de Git e GitHub.**
+- Reorganização da estrutura do repositório com adição de arquivos markdown que levem aos projetos e não mais o projeto em si.
+
+### Added
+
+- Novo README com descrição do propósito do projeto Controle de Tarefas
+- Remoção da pasta que continha o projeto Controle de Tarefas
+- Modificação no funcionamento dos mini-projetos
+
+### Learned
+
+- Manipulação de git e github, conceitos como: gists, merge, stash, rebase, tags, releases, cherry-pick, log, blame, branch, show, diff, reset, fetch e commit
+- Uso de estruturas condicionais e de repetição para validação dos dados de entrada
+- Aplicação de conhecimentos lógicos
+
+---
+
+## [2025-12] — Consolidação de estudos e reestruturação do repositório
 
 ### Changed
 
@@ -33,7 +55,7 @@ O foco é registrar **evolução, aprendizados e marcos importantes**.
 
 ---
 
-## [Próximas Atualizações]
+## 📂 [Próximas Atualizações]
 
 - Implementação de novos desafios-e-treinos
 - Inclusão de um novo mini-projeto
