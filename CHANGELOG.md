@@ -7,6 +7,30 @@ O foco é registrar **evolução, aprendizados e marcos importantes**.
 
 ---
 
+## [2026-01] — Ampliação de atividades práticas (Alura)
+
+### Added
+
+- Inclusão de um conjunto de **atividades práticas da Alura**, organizadas em múltiplas pastas, contendo exercícios focados em:
+  - Lógica de programação
+  - Funções
+  - Estruturas condicionais
+  - Estruturas de repetição
+  - Organização de código em pequenos projetos
+- Centralização dessas atividades no repositório para manter **histórico de estudos** e **evolução prática contínua**.
+
+### Changed
+
+- Atualização da estrutura do repositório para acomodar novos conjuntos de exercícios práticos.
+- Padronização da organização das pastas de estudo.
+
+### Learned
+
+- Reforço dos conceitos fundamentais de Python por meio da prática recorrente.
+- Importância de manter exercícios organizados para facilitar revisões futuras e acompanhamento da evolução.
+
+---
+
 ## [2026-01] — Desenvolvimento e reestruturação do miniprojeto Controle de Tarefas
 
 ### Changed
